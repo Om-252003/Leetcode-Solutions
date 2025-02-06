@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Om-252003/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/Om-252003/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
