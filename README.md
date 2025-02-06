@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Om-252003/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Om-252003/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1791-richest-customer-wealth](https://github.com/Om-252003/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Om-252003/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Om-252003/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Om-252003/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
