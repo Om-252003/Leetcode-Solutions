@@ -4,13 +4,5 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-
-        demo=set(nums)
-        nums2=[]
-
-        for i in range(1,len(nums)+1):
-            if i in demo:
-                demo.remove(i)
-            else :
-                nums2.append(i)
-        return nums2
+        nums_set = set(nums)
+        return [i for i in range(1, len(nums) + 1) if i not in nums_set]
