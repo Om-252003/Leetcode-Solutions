@@ -114,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Om-252003/Leetcode-Problems/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Om-252003/Leetcode-Problems/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
