@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-project-employees-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/Om-252003/Leetcode-Problems/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/1179-game-play-analysis-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Om-252003/Leetcode-Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Om-252003/Leetcode-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
