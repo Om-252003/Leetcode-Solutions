@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Om-252003/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Om-252003/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Om-252003/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1791-richest-customer-wealth](https://github.com/Om-252003/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Om-252003/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Om-252003/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/Om-252003/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/Om-252003/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Om-252003/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Om-252003/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 ## Geometry
 |  |
 | ------- |
