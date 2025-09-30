@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Om-252003/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Om-252003/Leetcode-Problems/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/Om-252003/Leetcode-Problems/tree/master/0816-design-hashset) |
 | [0830-largest-triangle-area](https://github.com/Om-252003/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Om-252003/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Om-252003/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Om-252003/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0816-design-hashset](https://github.com/Om-252003/Leetcode-Problems/tree/master/0816-design-hashset) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
@@ -187,4 +189,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Om-252003/Leetcode-Problems/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Om-252003/Leetcode-Problems/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Om-252003/Leetcode-Problems/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
