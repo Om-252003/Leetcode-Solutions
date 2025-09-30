@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Om-252003/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Om-252003/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Om-252003/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Om-252003/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Om-252003/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Om-252003/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Om-252003/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Om-252003/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Om-252003/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Om-252003/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Om-252003/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Om-252003/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
