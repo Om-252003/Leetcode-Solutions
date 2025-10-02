@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Om-252003/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Om-252003/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Om-252003/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Om-252003/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Om-252003/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Om-252003/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Om-252003/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Om-252003/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
