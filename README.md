@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Om-252003/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Om-252003/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Om-252003/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0268-missing-number) |
