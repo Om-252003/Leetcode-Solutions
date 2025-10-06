@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Om-252003/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Om-252003/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Om-252003/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Om-252003/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Om-252003/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Om-252003/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Om-252003/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Om-252003/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Om-252003/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Om-252003/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Om-252003/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Om-252003/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Om-252003/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Om-252003/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0268-missing-number) |
