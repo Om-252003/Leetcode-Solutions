@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Om-252003/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Om-252003/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Om-252003/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Om-252003/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
