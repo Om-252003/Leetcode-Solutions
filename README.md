@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Om-252003/Leetcode-Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Om-252003/Leetcode-Problems/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Om-252003/Leetcode-Problems/tree/master/1625-group-sold-products-by-the-date) |
+| [1670-patients-with-a-condition](https://github.com/Om-252003/Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Om-252003/Leetcode-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Om-252003/Leetcode-Problems/tree/master/1827-invalid-tweets) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Om-252003/Leetcode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
