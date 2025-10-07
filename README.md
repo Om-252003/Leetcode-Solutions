@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/Om-252003/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Om-252003/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Om-252003/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1612-avoid-flood-in-the-city](https://github.com/Om-252003/Leetcode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1677-matrix-diagonal-sum](https://github.com/Om-252003/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Om-252003/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0816-design-hashset](https://github.com/Om-252003/Leetcode-Problems/tree/master/0816-design-hashset) |
+| [1612-avoid-flood-in-the-city](https://github.com/Om-252003/Leetcode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Om-252003/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Om-252003/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Om-252003/Leetcode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Om-252003/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Om-252003/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/Om-252003/Leetcode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 ## Geometry
 |  |
 | ------- |
@@ -242,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Om-252003/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Om-252003/Leetcode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 ## Depth-First Search
 |  |
 | ------- |
