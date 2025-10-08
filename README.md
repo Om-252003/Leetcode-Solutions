@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/Om-252003/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Om-252003/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Om-252003/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Om-252003/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Om-252003/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Om-252003/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Om-252003/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Om-252003/Leetcode-Problems/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Om-252003/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -143,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Om-252003/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Om-252003/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
