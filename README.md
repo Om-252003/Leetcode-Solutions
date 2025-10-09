@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1811-fix-names-in-a-table](https://github.com/Om-252003/Leetcode-Problems/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Om-252003/Leetcode-Problems/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Om-252003/Leetcode-Problems/tree/master/1837-daily-leads-and-partners) |
+| [1877-find-followers-count](https://github.com/Om-252003/Leetcode-Problems/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Om-252003/Leetcode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Greedy
 |  |
