@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Om-252003/Leetcode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Om-252003/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Om-252003/Leetcode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |
@@ -272,4 +274,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Om-252003/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Om-252003/Leetcode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
