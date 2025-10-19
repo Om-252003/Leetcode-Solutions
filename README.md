@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Om-252003/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Om-252003/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Counting
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Om-252003/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Om-252003/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Om-252003/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Om-252003/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
 | ------- |
@@ -317,4 +320,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Om-252003/Leetcode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
