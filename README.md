@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Om-252003/Leetcode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3429-special-array-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Om-252003/Leetcode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3463-alternating-groups-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
