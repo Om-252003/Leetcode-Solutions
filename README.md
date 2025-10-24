@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Om-252003/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Om-252003/Leetcode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Om-252003/Leetcode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Om-252003/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Om-252003/Leetcode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/Om-252003/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Om-252003/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/Om-252003/Leetcode-Problems/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
@@ -342,8 +345,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Number Theory
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
