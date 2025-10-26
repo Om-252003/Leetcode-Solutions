@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/Om-252003/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Om-252003/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Om-252003/Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Om-252003/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Om-252003/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Om-252003/Leetcode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2169-simple-bank-system](https://github.com/Om-252003/Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1642-water-bottles](https://github.com/Om-252003/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Om-252003/Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Om-252003/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Om-252003/Leetcode-Problems/tree/master/0816-design-hashset) |
+| [2169-simple-bank-system](https://github.com/Om-252003/Leetcode-Problems/tree/master/2169-simple-bank-system) |
 ## Hash Function
 |  |
 | ------- |
