@@ -1,23 +1,14 @@
-WITH FirstLogin AS (
-    SELECT
-        player_id,
-        MIN(event_date) AS first_login
-    FROM Activity
-    GROUP BY player_id
-),
-ConsecutiveLogin AS (
-    SELECT
-        a.player_id
-    FROM Activity a
-    JOIN FirstLogin fl
-    ON a.player_id = fl.player_id
-    AND a.event_date = DATE_ADD(fl.first_login, INTERVAL 1 DAY)
+WITH first_login AS (
+  SELECT player_id, MIN(event_date) AS first_date
+  FROM Activity
+  GROUP BY player_id
 )
-SELECT
-    ROUND(
-        COUNT(DISTINCT cl.player_id) * 1.0 / COUNT(DISTINCT fl.player_id),
-        2
-    ) AS fraction
-FROM FirstLogin fl
-LEFT JOIN ConsecutiveLogin cl
-ON fl.player_id = cl.player_id;
+SELECT 
+  ROUND(
+    SUM(CASE WHEN a.player_id IS NOT NULL THEN 1 ELSE 0 END) 
+    / COUNT(*)
+  , 2) AS fraction
+FROM first_login f
+LEFT JOIN Activity a
+  ON a.player_id = f.player_id
+  AND a.event_date = DATE_ADD(f.first_date, INTERVAL 1 DAY);
