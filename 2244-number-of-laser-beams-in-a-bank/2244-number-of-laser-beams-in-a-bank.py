@@ -1,10 +1,3 @@
 class Solution:
     def numberOfBeams(self, bank: List[str]) -> int:
-        ans=0
-        prev=0
-        for row in bank:
-            dev=row.count('1')
-            if dev>0:
-                ans+=dev*prev
-                prev=dev
-        return ans
+        return (dev:=[row.count('1') for row in bank if row.count('1')]) and sum(x*y for x, y in zip(dev[1:], dev[:-1])) or 0
