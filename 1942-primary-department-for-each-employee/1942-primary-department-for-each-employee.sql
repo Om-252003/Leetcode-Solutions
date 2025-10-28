@@ -1,10 +1,16 @@
 # Write your MySQL query statement below
-select employee_id, department_id 
-from employee
-where primary_flag = 'Y'
-or employee_id in (
-    select employee_id
-    from employee
-    group by employee_id
-    having count(employee_id) = 1
-)
+
+SELECT
+employee_id, department_id
+FROM Employee 
+WHERE primary_flag = 'Y'
+#GROUP BY employee_id
+#HAVING count(department_id) > 1
+
+UNION ALL
+
+SELECT
+employee_id, department_id
+FROM Employee 
+GROUP BY employee_id
+HAVING count(department_id) = 1
