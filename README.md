@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-invalid-tweets](https://github.com/Om-252003/Leetcode-Problems/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Om-252003/Leetcode-Problems/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/Om-252003/Leetcode-Problems/tree/master/1877-find-followers-count) |
+| [1942-primary-department-for-each-employee](https://github.com/Om-252003/Leetcode-Problems/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/Om-252003/Leetcode-Problems/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Om-252003/Leetcode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Greedy
