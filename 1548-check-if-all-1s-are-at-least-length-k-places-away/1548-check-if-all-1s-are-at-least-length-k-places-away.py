@@ -1,16 +1,11 @@
-class Solution(object):
-    def kLengthApart(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: bool
-        """
-        n = k #'<- the cheating line
-        for i in nums:
-            if i == 0:
-                n += 1
-            else:
-                if n < k:
+class Solution:
+    def kLengthApart(self, nums: List[int], k: int) -> bool:
+        if k == 0:
+            return True
+        prev = None
+        for i, num in enumerate(nums):
+            if num == 1:
+                if prev is not None and i - prev <= k:
                     return False
-                n = 0
+                prev = i
         return True
