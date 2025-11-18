@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/Om-252003/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Om-252003/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Om-252003/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Om-252003/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/Om-252003/Leetcode-Problems/tree/master/0816-design-hashset) |
