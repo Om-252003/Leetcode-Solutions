@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Om-252003/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Om-252003/Leetcode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Om-252003/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Om-252003/Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Om-252003/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Om-252003/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Om-252003/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Om-252003/Leetcode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Om-252003/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Om-252003/Leetcode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Om-252003/Leetcode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Om-252003/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Om-252003/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Om-252003/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Om-252003/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Om-252003/Leetcode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Om-252003/Leetcode-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Om-252003/Leetcode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
