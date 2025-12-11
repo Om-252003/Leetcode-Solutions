@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Om-252003/Leetcode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3463-alternating-groups-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
+| [3531-count-covered-buildings](https://github.com/Om-252003/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Om-252003/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Om-252003/Leetcode-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Om-252003/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3193-maximum-strong-pair-xor-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Om-252003/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Om-252003/Leetcode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3531-count-covered-buildings](https://github.com/Om-252003/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Om-252003/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Om-252003/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Om-252003/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Om-252003/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Om-252003/Leetcode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3531-count-covered-buildings](https://github.com/Om-252003/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Om-252003/Leetcode-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Om-252003/Leetcode-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Om-252003/Leetcode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
